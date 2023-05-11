@@ -16,8 +16,9 @@ public class Bucles {
 			}
 			
 		}
-		System.out.println("Contraseña correcta, acceso permitido despues de " + intentos + " intentos.");
+		System.out.println("Felicitaciones Contraseña correcta, acceso permitido despues de " + intentos + " intentos.");
 	}
 		
+
 }	
 		
